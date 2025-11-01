@@ -112,6 +112,8 @@ class MosaicGenerator():
         print(f'Image saved: {output_path}')
 
     def _generate_shopping_list(self):
+        # TODO
+        # Implement
         pass
 
     def generate(self):
