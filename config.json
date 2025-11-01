@@ -1,3 +1,7 @@
 {
-    
+  "input_image": "input.jpg",
+  "width": 48,
+  "height": 48,
+  "output_preview": "output/preview.jpg",
+  "output_shopping_list": "output/shopping_list.csv"
 }
